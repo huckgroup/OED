@@ -13,7 +13,7 @@ You can download the code folder to your desktop, this contains 2 subfolders
 
 -Dependencies 
 
--Demonstration
+-Main
 
 within the dependencies script you will find the write up of
 	Modelobject/model builder and compilation with AMICI (you can make use of subfunctions in the 
