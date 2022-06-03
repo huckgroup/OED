@@ -28,13 +28,21 @@ In the demonstration folder are 2:
 -A main folder where we call the different optimization and analysis scripts
 
 The user will need to install the following packages
+
 -Tellurium  https://pypi.org/project/python-libsbml/](https://pypi.org/project/tellurium/
+
 -Roadrunner https://pypi.org/project/libroadrunner/
+
 -Libsbml    https://pypi.org/project/python-libsbml/    
+
 -AMICI      https://amici.readthedocs.io/en/latest/about.html
+
 -pyDOE      https://pythonhosted.org/pyDOE/ 
+
 -sobolseq   https://pypi.org/project/sobol-seq/ 
+
 -importlib  https://pypi.org/project/importlib/
+
 
 The next version of this script will include a pip install for all dependencies excluding AMICI
 
