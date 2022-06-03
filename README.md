@@ -1,5 +1,5 @@
 # OED
-compile models from a manually defined model to AMICI, this applies to any ODE system
+Compile models from a manually defined set of equations to AMICI, this applies to any ODE system
 Perform identification analysis and optimal experimental design (i.e. obtain a series of time dependent inupts for you model which improve parameter estimations)
 
 Beta version 1.0 (march 24 2022)
