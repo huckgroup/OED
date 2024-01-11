@@ -1,0 +1,11 @@
+This code is reported in the nature communications paper, iterative design of training data to control intricate enzymatic networks
+subject to MIT liscence
+
+A summary/read me is available on the github. for both the OED part and the model building part (just define the reactions)
+
+for more information about the code and/or questions about its use
+please contact bob.vansluijs@gmail.com
+
+
+
+ 
