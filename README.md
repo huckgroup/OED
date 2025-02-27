@@ -1,4 +1,7 @@
 # OED
+NOTE that this software has been adapted, modified and improved for different projects and aplications:
+For more comprehensive READMEs go to the subfolders for each project
+
 Compile models from a manually defined set of equations to AMICI, this applies to any ODE system
 Perform identification analysis and optimal experimental design (i.e. obtain a series of time dependent inupts for you model which improve parameter estimations)
 
