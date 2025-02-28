@@ -1,5 +1,5 @@
 Note this this is a beta version:
-
+PPP is a working title for this repository, it will be updated to published article name
 The pipeline will be extended in the futures if time permits mainly to reduce the number of background functions:
 
 Are the core files, these interact with potential algorithms: they allow compiled models and measurements to communicate
@@ -13,6 +13,12 @@ The algorithms that use the measurements are found in:
 
 OptimizeExperiment.py
 ParameterOptimizationModelSets.py
+
+Modifications occured based for this software from previous work:
+https://www.nature.com/articles/s41467-024-45886-9
+
+Some code operations e.g. dict inversion etc. from operations.py were taken from 
+https://www.nature.com/articles/s41467-024-48107-5
 
 
 If you have questions about the software please contact Bob.vansluijs@gmail.com
