@@ -1,0 +1,18 @@
+Note this this is a beta version:
+
+The pipeline will be extended in the futures if time permits mainly to reduce the number of background functions:
+
+Are the core files, these interact with potential algorithms: they allow compiled models and measurements to communicate
+Model.py
+Measurement.py
+
+Model.py returns a model object that is added to a MeasurementObject, all information is there for solver
+solvesystem.py
+
+The algorithms that use the measurements are found in:
+
+OptimizeExperiment.py
+ParameterOptimizationModelSets.py
+
+
+If you have questions about the software please contact Bob.vansluijs@gmail.com
